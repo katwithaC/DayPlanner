@@ -1,1 +1,1 @@
-# DayPlanner
+To create this Day Planner, JQuery was used. jQuery is a javascript library designed to make using JavaScript much easier.
